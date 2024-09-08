@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HTHOCXWY
 
 [Document5]
-DocumentPath=5-LORA.SchDoc
+DocumentPath=5-Accelerometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
