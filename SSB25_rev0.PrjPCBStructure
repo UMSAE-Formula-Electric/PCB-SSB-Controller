@@ -6,3 +6,5 @@ Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=5-Accelero
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=6-Wheel Sensors.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=7-Fusing.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=8-Other_Inputs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=9-Potentiometers.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=10-ADC.SchDoc|SheetNumber= 
