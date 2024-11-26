@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HTHOCXWY
 
 [Document5]
-DocumentPath=5-Accelerometer.SchDoc
+DocumentPath=5-Brake Temp Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,6 +270,40 @@ GenerateClassCluster=0
 DocumentUniqueId=EZJXVMHQ
 
 [Document14]
+DocumentPath=11-Cooling Sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EJBTSFSB
+
+[Document15]
+DocumentPath=12-Flow meter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NDLPOWSV
+
+[Document16]
 DocumentPath=SSB25_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLNDOVXW
 
-[Document15]
+[Document17]
 DocumentPath=..\..\..\..\nelso\Downloads\ul_ADS131M08QPBSRQ1\AltiumDesigner\ADS131M08QPBSRQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
