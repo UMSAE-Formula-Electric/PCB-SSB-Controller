@@ -7,6 +7,5 @@ Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=6-Wheel Se
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=7-Fusing.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=8-Other_Inputs.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=9-Potentiometers.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=10-ADC.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=11-Cooling Sensors.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=12-Flow meter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=10-Cooling Sensors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=1-Controller.SchDoc|FileName=11-Flow meter.SchDoc|SheetNumber= 

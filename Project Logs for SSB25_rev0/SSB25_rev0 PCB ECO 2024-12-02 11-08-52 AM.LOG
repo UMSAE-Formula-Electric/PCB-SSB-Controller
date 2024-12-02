@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=BL_Temp_Low Pin=C28-1
+Removed Pin From Net: NetName=3v3 Pin=C28-2
+Removed Pin From Net: NetName=BL_Temp_Low Pin=C29-1
+Removed Pin From Net: NetName=BL_Temp_Low Pin=C30-2
+Removed Pin From Net: NetName=3v3 Pin=R39-1
+Removed Pin From Net: NetName=ADC_SCL Pin=R39-2
+Removed Pin From Net: NetName=3v3 Pin=R40-1
+Removed Pin From Net: NetName=ADC_SDA Pin=R40-2
+Removed Pin From Net: NetName=3v3 Pin=R42-2
+Removed Pin From Net: NetName=BL_Temp_Low Pin=U?-9
+Removed Pin From Net: NetName=ADC_SCL Pin=U?-14
+Removed Pin From Net: NetName=ADC_SDA Pin=U?-15
+Removed Pin From Net: NetName=Ph1 OSC Out Pin=X1-1
+Removed Pin From Net: NetName=Ph0 OSC In Pin=X1-2
+Change Footprint: Footprint Not Found CAPC0603(1608)100_M
+Change Component Footprint: Designator=R59 Old Footprint=FP-RC0603-0_55-MFG New Footprint=FP-RC0603-0_55-MFG
+Add Component: Footprint Not Found XTAL_ECS-80-18-30-JGN-TR
+Added Pin To Net: NetName=Ph1 OSC Out Pin=X1-1
+Added Pin To Net: NetName=Ph0 OSC In Pin=X1-2
+Change Class Name : Old Net Name=11-Cooling Sensors New Net Name=10-Cooling Sensors
+Change Class Name : Old Net Name=12-Flow meter New Net Name=11-Flow meter
+Change Room Scope: Old Scope=InComponentClass('2-Power') New Scope=InComponentClass('4-Connector')

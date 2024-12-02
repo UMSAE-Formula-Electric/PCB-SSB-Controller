@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Ph1 OSC Out Pin=X1-1
+Removed Pin From Net: NetName=Ph0 OSC In Pin=X1-2
+Change Footprint: Footprint Not Found CAPC0603(1608)100_M
+Add Component: Footprint Not Found XTAL_ECS-80-18-30-JGN-TR
+Added Pin To Net: NetName=5v Pin=J-55
+Added Pin To Net: NetName=5v Pin=J-56
+Added Pin To Net: NetName=5v Pin=J-57
+Added Pin To Net: NetName=5v Pin=J-58
+Added Pin To Net: NetName=5v Pin=U4-2
+Added Pin To Net: NetName=5v Pin=U5-2
+Added Pin To Net: NetName=5v Pin=U6-2
+Added Pin To Net: NetName=5v Pin=U7-2
+Added Pin To Net: NetName=Ph1 OSC Out Pin=X1-1
+Added Pin To Net: NetName=Ph0 OSC In Pin=X1-2
+Change Net Name : Old Net Name=5v New Net Name=BL_Temp_Low

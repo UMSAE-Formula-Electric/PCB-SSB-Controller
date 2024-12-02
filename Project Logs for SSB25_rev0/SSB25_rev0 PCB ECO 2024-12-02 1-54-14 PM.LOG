@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=5v Pin=C1-1
+Removed Pin From Net: NetName=NRST Pin=C1-2
+Removed Pin From Net: NetName=Ph1 OSC Out Pin=X1-1
+Removed Pin From Net: NetName=Ph0 OSC In Pin=X1-2
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603(1608)100_M New Footprint=FP-CGA3E-0_3-0_1-IPC_A
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8861F9B8-3241-4096-A05C-CA45027DFF9F Old RevisionGUID= New RevisionGUID=8B50FF60-CB1E-4E4C-8CD8-F2E50EC253EB
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC0603(1608)100_M"; UniqueID = "\QAFEJPLK" ("\QAFEJPLK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=Y(XTAL_ECS-80-18-30-JGN-TR)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "XC2103CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/ecs-inc/ECS-80-18-30-JGN-TR/XC2103CT-ND/5875587?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-80-18-30-JGN-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-80-18-30-JGN-TR/ECS%20Inc./view-part/2121425/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=C1-1
+Added Pin To Net: NetName=5v Pin=C1-2
+Added Pin To Net: NetName=5v Pin=J-55
+Added Pin To Net: NetName=5v Pin=J-56
+Added Pin To Net: NetName=5v Pin=J-57
+Added Pin To Net: NetName=5v Pin=J-58
+Added Pin To Net: NetName=5v Pin=U4-2
+Added Pin To Net: NetName=5v Pin=U5-2
+Added Pin To Net: NetName=5v Pin=U6-2
+Added Pin To Net: NetName=5v Pin=U7-2
+Added Pin To Net: NetName=Ph1 OSC Out Pin=Y-1
+Added Pin To Net: NetName=Ph0 OSC In Pin=Y-2
+Change Net Name : Old Net Name=5v New Net Name=BL_Temp_Low
+Added Member To Class: ClassName=1-Controller Member=Component Y ECS-80-18-30-JGN-TR
