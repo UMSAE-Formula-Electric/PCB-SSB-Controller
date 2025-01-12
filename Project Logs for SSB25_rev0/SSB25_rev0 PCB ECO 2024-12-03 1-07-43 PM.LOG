@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J-17
+Removed Pin From Net: NetName=GLV Power In Pin=J-22
+Added Pin To Net: NetName=GLV Power In Pin=J-17
+Added Pin To Net: NetName=GND Pin=J-22

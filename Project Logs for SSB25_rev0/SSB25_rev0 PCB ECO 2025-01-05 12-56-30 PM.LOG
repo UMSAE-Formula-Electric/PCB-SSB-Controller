@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5v Pin=J-6
+Removed Pin From Net: NetName=NetJ_49 Pin=J-49
+Added Pin To Net: NetName=NetJ_49 Pin=J-6
+Added Pin To Net: NetName=5v Pin=J-49
+Change Net Name : Old Net Name=NetJ_49 New Net Name=NetJ_6
+Added Member To Class: ClassName=6-Wheel Sensors Member=Component D29 RB521S30T1G

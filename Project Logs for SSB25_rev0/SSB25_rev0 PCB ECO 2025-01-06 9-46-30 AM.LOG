@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Cooling_Controller_Front_In Pin=J-10
+Removed Pin From Net: NetName=Cooling_Controller_Front_In Pin=R48-2
+Added Pin To Net: NetName=Cooling_Motor_Front_In Pin=J-10
+Added Pin To Net: NetName=Cooling_Motor_Front_In Pin=R48-2
+Added Net: Name=Cooling_Motor_Front_In
